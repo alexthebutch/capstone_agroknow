@@ -1,1 +1,3 @@
-The project starts now
+
+Hello, the project starts now
+
