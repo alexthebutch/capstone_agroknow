@@ -12,8 +12,7 @@ from keys import config
 url = config['url']
 
 headers = {
-    'Content-Type': 'application/json',
-    'Cookie': '__cfduid=d368dcf09d47170e4963d103f7fdaf48b1595250587'}
+    'Content-Type': 'application/json'}
 
 my_data = pd.DataFrame([])
 
